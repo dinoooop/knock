@@ -1,0 +1,46 @@
+<ion-view title="HOME">
+
+
+    <ion-content>
+
+        <div class="row hit">
+            <div class="col col-80 col-offset-10">
+
+                <br>
+
+                <h1>KNOCK</h1>
+                <h4>New transaction</h4>
+                <br>
+                
+                <form novalidate>
+                    
+                    
+                    <kn-radio items="banks" heading="Choose your bank" lock="cp.the_bank"></kn-radio>
+                    
+                    <ion-list>
+                        <ion-radio ng-model="cp.the_type" ng-value="'debit'">Debit</ion-radio>
+                        <ion-radio ng-model="cp.the_type" ng-value="'credit'">Credit</ion-radio>
+                    </ion-list>
+                    
+                    <ion-list>
+                        <label class="item item-input amount">
+                            <input type="text" placeholder="Amount" ng-model="cp.the_amount" required>
+                        </label>
+                    </ion-list>
+
+                    <button class="button button-block button-calm" ng-click="createTransaction(cp)">MAKE</button>
+
+                </form>
+
+            </div>
+        </div>
+
+    </ion-content>
+
+
+
+</ion-view>
+
+
+
+

@@ -1,0 +1,17 @@
+<ion-view title="BANKS">
+    
+    <ion-nav-buttons side="right">
+        <button class="button button-icon ion-plus-circled" ng-click="showModal()"></button>
+    </ion-nav-buttons>
+
+    <ion-content>
+        
+        <ion-list>
+                <ion-item ng-repeat="bank in banks" on-hold="hold($index)" ui-sref="app.transaction({bankTitle: bank.title})">
+                    {{bank.title}} ({{bank.amount}})
+                </ion-item>
+            </ion-list>
+
+    </ion-content>
+
+</ion-view>

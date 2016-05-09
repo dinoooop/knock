@@ -1,0 +1,17 @@
+<div class="modal">
+
+    <!-- Modal header bar -->
+    <ion-header-bar class="bar-secondary">
+        <h1 class="title">Choose your bank</h1>
+        <button class="button button-clear button-positive" ng-click="closeBankCheckBox()">Cancels</button>
+    </ion-header-bar>
+
+    <!-- Modal content area -->
+    <ion-content>
+
+        <ion-list>
+            <ion-radio ng-model="cp.the_bank" ng-repeat="bank in banks" ng-click="closeBankCheckBox(bank.title)" ng-value="'{{ bank.title }}'">{{ bank.title }}</ion-radio>
+        </ion-list>
+
+    </ion-content>
+</div>  

@@ -1,0 +1,811 @@
+--------- beginning of /dev/log/main
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 2901): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 2901): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+D/dalvikvm(  311): GC_CONCURRENT freed 628K, 10% free 13604K/14983K, paused 9ms+1ms, total 24ms
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 2901): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+D/dalvikvm( 2901): GC_CONCURRENT freed 822K, 9% free 10886K/11911K, paused 12ms+0ms, total 18ms
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 2901): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 2901): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+--------- beginning of /dev/log/system
+D/Genyd   (   56): Received Set Clipboard
+D/Genymotion(   56): Received Set Clipboard
+I/ClipboardService(  311): Got clipboard for user=0
+I/ClipboardService(  311): Got clipboard for user=0
+I/ClipboardService(  311): Got clipboard for user=0
+I/ClipboardService(  311): Got clipboard for user=0
+I/ClipboardService(  311): Got clipboard for user=0
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 2901): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 2901): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 2901): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 2901): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 2901): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 2901): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 2901): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 2901): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 2901): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 2901): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 2901): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 2901): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 2901): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 2901): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 2901): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 2901): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 2901): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 2901): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 2901): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 2901): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 2901): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 2901): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 2901): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 2901): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 2901): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 2901): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 2901): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 2901): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 2901): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 2901): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 2901): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 2901): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 2901): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 2901): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 2901): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 2901): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 2901): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 2901): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 2901): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/ThrottleService(  311): unable to find stats for iface rmnet0
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 2901): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 2901): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 2901): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 2901): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 2901): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 2901): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 2901): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 2901): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 2901): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+D/AndroidRuntime( 2972): 
+D/AndroidRuntime( 2972): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+D/AndroidRuntime( 2972): CheckJNI is OFF
+D/dalvikvm( 2972): Unable to stat classpath element '/system/framework/filterfw.jar'
+D/dalvikvm( 2972): Trying to load lib libjavacore.so 0x0
+D/dalvikvm( 2972): Added shared lib libjavacore.so 0x0
+D/dalvikvm( 2972): Trying to load lib libnativehelper.so 0x0
+D/dalvikvm( 2972): Added shared lib libnativehelper.so 0x0
+D/AndroidRuntime( 2972): Calling main entry com.android.commands.pm.Pm
+W/ActivityManager(  311): No content provider found for permission revoke: file:///data/local/tmp/android-debug.apk
+W/ActivityManager(  311): No content provider found for permission revoke: file:///data/local/tmp/android-debug.apk
+D/dalvikvm(  311): GC_CONCURRENT freed 575K, 9% free 13761K/14983K, paused 16ms+1ms, total 34ms
+D/dalvikvm(  311): WAIT_FOR_CONCURRENT_GC blocked 5ms
+D/dalvikvm(  311): GC_CONCURRENT freed 625K, 8% free 13813K/14983K, paused 15ms+12ms, total 46ms
+D/dalvikvm(  311): GC_CONCURRENT freed 718K, 8% free 13811K/14983K, paused 18ms+1ms, total 35ms
+I/PackageManager(  311): Removing non-system package:com.ionicframework.starter
+I/ActivityManager(  311): Force stopping package com.ionicframework.starter uid=10049
+I/ActivityManager(  311): Killing proc 2901:com.ionicframework.starter/u0a49: force stop
+W/ActivityManager(  311): Force removing ActivityRecord{537093a8 com.ionicframework.starter/.MainActivity}: app died, no saved state
+I/qtaguid (  311): Failed write_ctrl(s 0 10049) res=-1 errno=1
+W/NetworkManagementSocketTagger(  311): setKernelCountSet(10049, 0) failed with errno -1
+I/qtaguid (  311): Failed write_ctrl(s 1 10021) res=-1 errno=1
+W/NetworkManagementSocketTagger(  311): setKernelCountSet(10021, 1) failed with errno -1
+I/WindowState(  311): WIN DEATH: Window{537de850 com.ionicframework.starter/com.ionicframework.starter.MainActivity paused=false}
+I/Choreographer(  500): Skipped 37 frames!  The application may be doing too much work on its main thread.
+I/PackageManager(  311): Package com.ionicframework.starter codePath changed from /data/app/com.ionicframework.starter-1.apk to /data/app/com.ionicframework.starter-2.apk; Retaining data and using new
+I/PackageManager(  311): Running dexopt on: com.ionicframework.starter
+D/dalvikvm( 2982): Unable to stat classpath element '/system/framework/filterfw.jar'
+D/dalvikvm( 2982): DexOpt: load 44ms, verify+opt 46ms, 629828 bytes
+I/ActivityManager(  311): Force stopping package com.ionicframework.starter uid=10049
+W/PackageManager(  311): Code path for pkg : com.ionicframework.starter changing from /data/app/com.ionicframework.starter-1.apk to /data/app/com.ionicframework.starter-2.apk
+W/PackageManager(  311): Resource path for pkg : com.ionicframework.starter changing from /data/app/com.ionicframework.starter-1.apk to /data/app/com.ionicframework.starter-2.apk
+D/PackageManager(  311): New package installed in /data/app/com.ionicframework.starter-2.apk
+D/dalvikvm(  311): GC_CONCURRENT freed 1007K, 11% free 13485K/14983K, paused 15ms+1ms, total 28ms
+I/ActivityManager(  311): Force stopping package com.ionicframework.starter uid=10049
+D/dalvikvm(  536): WAIT_FOR_CONCURRENT_GC blocked 0ms
+D/dalvikvm(  536): GC_EXPLICIT freed 137K, 4% free 10994K/11335K, paused 1ms+1ms, total 22ms
+D/dalvikvm(  311): WAIT_FOR_CONCURRENT_GC blocked 0ms
+W/EGL_genymotion(  500): eglSurfaceAttrib not implemented
+W/InputMethodManagerService(  311): Got RemoteException sending setActive(false) notification to pid 2901 uid 10049
+I/InputReader(  311): Reconfiguring input devices.  changes=0x00000010
+D/OpenGLRenderer(  500): TextureCache::get: create texture(0xb7af59b8): name, size, mSize = 237, 576, 1317520
+D/OpenGLRenderer(  500): TextureCache::get: create texture(0xb7af59f0): name, size, mSize = 238, 576, 1318096
+D/OpenGLRenderer(  500): TextureCache::get: create texture(0xb7ad43a0): name, size, mSize = 239, 36864, 1354960
+D/OpenGLRenderer(  500): TextureCache::get: create texture(0xb7b29d80): name, size, mSize = 240, 36864, 1391824
+D/OpenGLRenderer(  500): TextureCache::get: create texture(0xb7b80888): name, size, mSize = 242, 36864, 1428688
+D/OpenGLRenderer(  500): TextureCache::get: create texture(0xb7b35670): name, size, mSize = 243, 36864, 1465552
+D/OpenGLRenderer(  500): TextureCache::get: create texture(0xb7b185a8): name, size, mSize = 244, 36864, 1502416
+D/OpenGLRenderer(  500): TextureCache::get: create texture(0xb7ac3f80): name, size, mSize = 245, 36864, 1539280
+I/InputReader(  311): Reconfiguring input devices.  changes=0x00000010
+D/OpenGLRenderer(  500): TextureCache::get: create texture(0xb7b80580): name, size, mSize = 246, 614656, 2153936
+D/dalvikvm(  311): GC_EXPLICIT freed 429K, 12% free 13236K/14983K, paused 59ms+1ms, total 171ms
+D/PackageManager(  311): generateServicesMap(android.accounts.AccountAuthenticator): 2 services unchanged
+D/PackageManager(  311): generateServicesMap(android.content.SyncAdapter): 4 services unchanged
+D/PackageManager(  311): generateServicesMap(android.accounts.AccountAuthenticator): 2 services unchanged
+D/PackageManager(  311): generateServicesMap(android.content.SyncAdapter): 4 services unchanged
+D/BackupManagerService(  311): Received broadcast Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.ionicframework.starter flg=0x8000010 (has extras) }
+D/BackupManagerService(  311): Received broadcast Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.ionicframework.starter flg=0x8000010 (has extras) }
+V/BackupManagerService(  311): removePackageParticipantsLocked: uid=10049 #1
+D/dalvikvm(  311): WAIT_FOR_CONCURRENT_GC blocked 0ms
+V/BackupManagerService(  311): addPackageParticipantsLocked: #1
+W/ResourceType(  311): Failure getting entry for 0x7f060000 (t=5 e=0) in package 0 (error -75)
+W/ResourceType(  311): Failure getting entry for 0x7f060000 (t=5 e=0) in package 0 (error -75)
+W/InputMethodManagerService(  311): Found no subtypes in a system IME: com.android.inputmethod.pinyin
+W/RecognitionManagerService(  311): no available voice recognition services found
+D/dalvikvm(  311): GC_EXPLICIT freed 387K, 12% free 13253K/14983K, paused 30ms+1ms, total 103ms
+D/AndroidRuntime( 2972): Shutting down VM
+D/dalvikvm( 2972): GC_CONCURRENT freed 96K, 90% free 445K/4096K, paused 1ms+1ms, total 5ms
+I/AndroidRuntime( 2972): NOTE: attach of thread 'Binder_3' failed
+D/dalvikvm(  500): WAIT_FOR_CONCURRENT_GC blocked 0ms
+D/dalvikvm(  500): GC_EXPLICIT freed 789K, 7% free 14617K/15687K, paused 2ms+1ms, total 42ms
+D/AndroidRuntime( 2991): 
+D/AndroidRuntime( 2991): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+D/AndroidRuntime( 2991): CheckJNI is OFF
+D/dalvikvm( 2991): Unable to stat classpath element '/system/framework/filterfw.jar'
+D/dalvikvm( 2991): Trying to load lib libjavacore.so 0x0
+D/dalvikvm( 2991): Added shared lib libjavacore.so 0x0
+D/dalvikvm( 2991): Trying to load lib libnativehelper.so 0x0
+D/dalvikvm( 2991): Added shared lib libnativehelper.so 0x0
+D/AndroidRuntime( 2991): Calling main entry com.android.commands.input.Input
+I/Input   ( 2991): InjectKeyEvent: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_MENU, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=4409769, downTime=4409769, deviceId=-1, source=0x101 }
+I/Input   ( 2991): InjectKeyEvent: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_MENU, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=4409769, downTime=4409769, deviceId=-1, source=0x101 }
+W/AudioWatchdog(  128): Insufficient CPU for load: expected=50.0 actual=1918.1 ms; underruns=6 logs=5
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+I/Choreographer(  500): Skipped 115 frames!  The application may be doing too much work on its main thread.
+D/AndroidRuntime( 2991): Shutting down VM
+I/AndroidRuntime( 2991): NOTE: attach of thread 'Binder_1' failed
+D/dalvikvm( 2991): GC_CONCURRENT freed 98K, 90% free 440K/4096K, paused 1ms+0ms, total 3ms
+W/EGL_genymotion(  500): eglSurfaceAttrib not implemented
+D/AndroidRuntime( 3002): 
+D/AndroidRuntime( 3002): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+D/AndroidRuntime( 3002): CheckJNI is OFF
+D/dalvikvm( 3002): Unable to stat classpath element '/system/framework/filterfw.jar'
+D/dalvikvm( 3002): Trying to load lib libjavacore.so 0x0
+D/dalvikvm( 3002): Added shared lib libjavacore.so 0x0
+D/dalvikvm( 3002): Trying to load lib libnativehelper.so 0x0
+D/dalvikvm( 3002): Added shared lib libnativehelper.so 0x0
+D/AndroidRuntime( 3002): Calling main entry com.android.commands.am.Am
+I/ActivityManager(  311): START {act=android.intent.action.MAIN flg=0x10000000 cmp=com.ionicframework.starter/.MainActivity u=0} from pid 3002
+E/SocketStream(  242): readFully was waiting for 716352 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 700160 bytes, got 9872 
+E/SocketStream(  242): readFully was waiting for 690288 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 674096 bytes, got 12768 
+E/SocketStream(  242): readFully was waiting for 661328 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 645136 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 628944 bytes, got 920 
+E/SocketStream(  242): readFully was waiting for 628024 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 611832 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 595640 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 579448 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 563256 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 547064 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 530872 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 514680 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 498488 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 482296 bytes, got 12104 
+E/SocketStream(  242): readFully was waiting for 470192 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 454000 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 437808 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 421616 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 405424 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 389232 bytes, got 16056 
+E/SocketStream(  242): readFully was waiting for 373176 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 356984 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 340792 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 324600 bytes, got 3552 
+E/SocketStream(  242): readFully was waiting for 321048 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 304856 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 288664 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 272472 bytes, got 656 
+E/SocketStream(  242): readFully was waiting for 271816 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 255624 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 239432 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 223240 bytes, got 3552 
+E/SocketStream(  242): readFully was waiting for 219688 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 203496 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 187304 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 171112 bytes, got 5000 
+E/SocketStream(  242): readFully was waiting for 166112 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 149920 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 133728 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 117536 bytes, got 5000 
+E/SocketStream(  242): readFully was waiting for 112536 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 96344 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 80152 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 63960 bytes, got 3552 
+E/SocketStream(  242): readFully was waiting for 60408 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 44216 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 28024 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 11832 bytes, got 6448 
+I/Choreographer(  500): Skipped 30 frames!  The application may be doing too much work on its main thread.
+D/dalvikvm(  311): GC_CONCURRENT freed 154K, 10% free 13624K/14983K, paused 52ms+1ms, total 129ms
+D/dalvikvm( 3012): Late-enabling CheckJNI
+I/ActivityManager(  311): Start proc com.ionicframework.starter for activity com.ionicframework.starter/.MainActivity: pid=3012 uid=10049 gids={3003, 1015, 1028}
+D/OpenGLRenderer(  500): TextureCache::flush: target size: 1292361
+D/OpenGLRenderer(  500): TextureCache::callback: name, removed size, mSize = 1, 1600, 2152336
+D/OpenGLRenderer(  500): TextureCache::callback: name, removed size, mSize = 237, 576, 2151760
+D/OpenGLRenderer(  500): TextureCache::callback: name, removed size, mSize = 238, 576, 2151184
+D/OpenGLRenderer(  500): TextureCache::callback: name, removed size, mSize = 3, 4096, 2147088
+D/OpenGLRenderer(  500): TextureCache::callback: name, removed size, mSize = 218, 57344, 2089744
+D/OpenGLRenderer(  500): TextureCache::callback: name, removed size, mSize = 239, 36864, 2052880
+D/OpenGLRenderer(  500): TextureCache::callback: name, removed size, mSize = 240, 36864, 2016016
+D/OpenGLRenderer(  500): TextureCache::callback: name, removed size, mSize = 242, 36864, 1979152
+D/OpenGLRenderer(  500): TextureCache::callback: name, removed size, mSize = 243, 36864, 1942288
+D/OpenGLRenderer(  500): TextureCache::callback: name, removed size, mSize = 244, 36864, 1905424
+D/OpenGLRenderer(  500): TextureCache::callback: name, removed size, mSize = 245, 36864, 1868560
+D/OpenGLRenderer(  500): TextureCache::callback: name, removed size, mSize = 246, 614656, 1253904
+I/qtaguid (  311): Failed write_ctrl(s 1 10049) res=-1 errno=1
+W/NetworkManagementSocketTagger(  311): setKernelCountSet(10049, 1) failed with errno -1
+I/dalvikvm( 3012): Could not find method android.app.Activity.checkSelfPermission, referenced from method org.apache.cordova.CordovaInterfaceImpl.hasPermission
+W/dalvikvm( 3012): VFY: unable to resolve virtual method 6: Landroid/app/Activity;.checkSelfPermission (Ljava/lang/String;)I
+D/dalvikvm( 3012): VFY: replacing opcode 0x6e at 0x0009
+I/dalvikvm( 3012): Could not find method android.app.Activity.requestPermissions, referenced from method org.apache.cordova.CordovaInterfaceImpl.requestPermission
+W/dalvikvm( 3012): VFY: unable to resolve virtual method 26: Landroid/app/Activity;.requestPermissions ([Ljava/lang/String;I)V
+D/dalvikvm( 3012): VFY: replacing opcode 0x6e at 0x000c
+I/dalvikvm( 3012): Could not find method android.app.Activity.requestPermissions, referenced from method org.apache.cordova.CordovaInterfaceImpl.requestPermissions
+W/dalvikvm( 3012): VFY: unable to resolve virtual method 26: Landroid/app/Activity;.requestPermissions ([Ljava/lang/String;I)V
+D/dalvikvm( 3012): VFY: replacing opcode 0x6e at 0x0006
+I/dalvikvm( 3012): Could not find method android.webkit.WebView.setWebContentsDebuggingEnabled, referenced from method org.apache.cordova.engine.SystemWebViewEngine.enableRemoteDebugging
+W/dalvikvm( 3012): VFY: unable to resolve static method 285: Landroid/webkit/WebView;.setWebContentsDebuggingEnabled (Z)V
+D/dalvikvm( 3012): VFY: replacing opcode 0x71 at 0x0001
+I/dalvikvm( 3012): Could not find method android.webkit.WebSettings.setMediaPlaybackRequiresUserGesture, referenced from method org.apache.cordova.engine.SystemWebViewEngine.initWebViewSettings
+W/dalvikvm( 3012): VFY: unable to resolve virtual method 273: Landroid/webkit/WebSettings;.setMediaPlaybackRequiresUserGesture (Z)V
+D/dalvikvm( 3012): VFY: replacing opcode 0x6e at 0x0080
+I/dalvikvm( 3012): Could not find method android.webkit.CookieManager.setAcceptThirdPartyCookies, referenced from method org.apache.cordova.engine.SystemCookieManager.<init>
+W/dalvikvm( 3012): VFY: unable to resolve virtual method 237: Landroid/webkit/CookieManager;.setAcceptThirdPartyCookies (Landroid/webkit/WebView;Z)V
+D/dalvikvm( 3012): VFY: replacing opcode 0x6e at 0x0016
+I/dalvikvm( 3012): Could not find method android.webkit.CookieManager.flush, referenced from method org.apache.cordova.engine.SystemCookieManager.flush
+W/dalvikvm( 3012): VFY: unable to resolve virtual method 232: Landroid/webkit/CookieManager;.flush ()V
+D/dalvikvm( 3012): VFY: replacing opcode 0x6e at 0x0008
+W/dalvikvm( 3012): VFY: unable to find class referenced in signature (Landroid/webkit/ClientCertRequest;)
+W/dalvikvm( 3012): VFY: unable to find class referenced in signature (Landroid/webkit/ClientCertRequest;)
+I/dalvikvm( 3012): Could not find method android.webkit.WebViewClient.onReceivedClientCertRequest, referenced from method org.apache.cordova.engine.SystemWebViewClient.onReceivedClientCertRequest
+W/dalvikvm( 3012): VFY: unable to resolve virtual method 290: Landroid/webkit/WebViewClient;.onReceivedClientCertRequest (Landroid/webkit/WebView;Landroid/webkit/ClientCertRequest;)V
+D/dalvikvm( 3012): VFY: replacing opcode 0x6f at 0x001a
+W/dalvikvm( 3012): VFY: unable to find class referenced in signature (Landroid/webkit/PermissionRequest;)
+I/dalvikvm( 3012): Could not find method android.webkit.PermissionRequest.getResources, referenced from method org.apache.cordova.engine.SystemWebChromeClient.onPermissionRequest
+W/dalvikvm( 3012): VFY: unable to resolve virtual method 248: Landroid/webkit/PermissionRequest;.getResources ()[Ljava/lang/String;
+D/dalvikvm( 3012): VFY: replacing opcode 0x6e at 0x000d
+I/dalvikvm( 3012): Could not find method android.webkit.WebChromeClient$FileChooserParams.createIntent, referenced from method org.apache.cordova.engine.SystemWebChromeClient.onShowFileChooser
+W/dalvikvm( 3012): VFY: unable to resolve virtual method 253: Landroid/webkit/WebChromeClient$FileChooserParams;.createIntent ()Landroid/content/Intent;
+D/dalvikvm( 3012): VFY: replacing opcode 0x6e at 0x0000
+D/SystemWebViewEngine( 3012): CordovaWebView is running on device made by: Genymotion
+I/SystemWebViewEngine( 3012): Disabled addJavascriptInterface() bridge since Android version is old.
+I/dalvikvm( 3012): Could not find method android.content.Context.getExternalMediaDirs, referenced from method org.apache.cordova.file.LocalFilesystem.isPublicDirectory
+W/dalvikvm( 3012): VFY: unable to resolve virtual method 65: Landroid/content/Context;.getExternalMediaDirs ()[Ljava/io/File;
+D/dalvikvm( 3012): VFY: replacing opcode 0x6e at 0x0008
+D/libEGL  ( 3012): loaded /system/lib/egl/libEGL_genymotion.so
+D/        ( 3012): HostConnection::get() New Host Connection established 0xb7b9a2e0, tid 3012
+D/dalvikvm( 3012): GC_CONCURRENT freed 205K, 4% free 10929K/11271K, paused 31ms+6ms, total 79ms
+E/SocketStream( 3012): readFully was waiting for 30848 bytes, got 16192 
+D/libEGL  ( 3012): loaded /system/lib/egl/libGLESv1_CM_genymotion.so
+D/libEGL  ( 3012): loaded /system/lib/egl/libGLESv2_genymotion.so
+D/chromium( 3012): Unknown chromium error: -6
+W/EGL_genymotion( 3012): eglSurfaceAttrib not implemented
+D/OpenGLRenderer( 3012): Enabling debug mode 0
+I/Choreographer( 3012): Skipped 101 frames!  The application may be doing too much work on its main thread.
+D/OpenGLRenderer( 3012): TextureCache::get: create texture(0xb7af28b8): name, size, mSize = 1, 1048576, 1048576
+I/ActivityManager(  311): Displayed com.ionicframework.starter/.MainActivity: +2s969ms
+D/AndroidRuntime( 3002): Shutting down VM
+D/dalvikvm( 3002): GC_CONCURRENT freed 98K, 89% free 478K/4096K, paused 0ms+0ms, total 4ms
+D/JsMessageQueue( 3012): Set native->JS mode to OnlineEventsBridgeMode
+I/AndroidRuntime( 3002): NOTE: attach of thread 'Binder_3' failed
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+I/qtaguid (  311): Failed write_ctrl(s 0 10021) res=-1 errno=1
+W/NetworkManagementSocketTagger(  311): setKernelCountSet(10021, 0) failed with errno -1
+D/TilesManager( 3012): new EGLContext from framework: b7ecda08 
+D/GLWebViewState( 3012): Reinit shader
+D/dalvikvm( 3012): GC_FOR_ALLOC freed 336K, 6% free 10941K/11527K, paused 15ms, total 25ms
+D/dalvikvm( 3012): GC_FOR_ALLOC freed 13K, 3% free 11331K/11591K, paused 17ms, total 21ms
+D/GLWebViewState( 3012): Reinit transferQueue
+E/Web Console( 3012): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:24
+E/Web Console( 3012): Uncaught TypeError: Cannot read property 'Keyboard' of undefined at file:///android_asset/www/js/app.js:16
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 3012): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 3012): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+D/Genyd   (   56): Received Set Clipboard
+D/Genymotion(   56): Received Set Clipboard
+I/ClipboardService(  311): Got clipboard for user=0
+I/ClipboardService(  311): Got clipboard for user=0
+I/ClipboardService(  311): Got clipboard for user=0
+I/ClipboardService(  311): Got clipboard for user=0
+I/ClipboardService(  311): Got clipboard for user=0
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 3012): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+D/Genyd   (   56): Received Set Clipboard
+D/Genymotion(   56): Received Set Clipboard
+I/ClipboardService(  311): Got clipboard for user=0
+I/ClipboardService(  311): Got clipboard for user=0
+I/ClipboardService(  311): Got clipboard for user=0
+I/ClipboardService(  311): Got clipboard for user=0
+I/ClipboardService(  311): Got clipboard for user=0
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 3012): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+D/Genyd   (   56): Received Set Clipboard
+D/Genymotion(   56): Received Set Clipboard
+I/ClipboardService(  311): Got clipboard for user=0
+I/ClipboardService(  311): Got clipboard for user=0
+I/ClipboardService(  311): Got clipboard for user=0
+I/ClipboardService(  311): Got clipboard for user=0
+I/ClipboardService(  311): Got clipboard for user=0
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 3012): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 3012): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+D/dalvikvm( 3012): GC_CONCURRENT freed 882K, 10% free 10889K/11975K, paused 3ms+0ms, total 12ms
+D/FileTransfer( 3012): upload /img/images3.jpeg to http://localhost/ng-gallery/www/uplods/
+D/FileTransfer( 3012): fileKey: avatar
+D/FileTransfer( 3012): fileName: image.jpeg
+D/FileTransfer( 3012): mimeType: image/jpeg
+D/FileTransfer( 3012): params: {}
+D/FileTransfer( 3012): trustEveryone: false
+D/FileTransfer( 3012): chunkedMode: false
+D/FileTransfer( 3012): headers: null
+D/FileTransfer( 3012): objectId: 1
+D/FileTransfer( 3012): httpMethod: POST
+W/PluginManager( 3012): THREAD WARNING: exec() call to FileTransfer.upload blocked the main thread for 19ms. Plugin should use CordovaInterface.getThreadPool().
+W/FileTransfer( 3012): Error getting HTTP status code from connection.
+W/FileTransfer( 3012): java.net.ConnectException: failed to connect to localhost/127.0.0.1 (port 80): connect failed: ECONNREFUSED (Connection refused)
+W/FileTransfer( 3012): 	at libcore.io.IoBridge.connect(IoBridge.java:114)
+W/FileTransfer( 3012): 	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:192)
+W/FileTransfer( 3012): 	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:459)
+W/FileTransfer( 3012): 	at java.net.Socket.connect(Socket.java:842)
+W/FileTransfer( 3012): 	at libcore.net.http.HttpConnection.<init>(HttpConnection.java:76)
+W/FileTransfer( 3012): 	at libcore.net.http.HttpConnection.<init>(HttpConnection.java:50)
+W/FileTransfer( 3012): 	at libcore.net.http.HttpConnection$Address.connect(HttpConnection.java:341)
+W/FileTransfer( 3012): 	at libcore.net.http.HttpConnectionPool.get(HttpConnectionPool.java:87)
+W/FileTransfer( 3012): 	at libcore.net.http.HttpConnection.connect(HttpConnection.java:128)
+W/FileTransfer( 3012): 	at libcore.net.http.HttpEngine.openSocketConnection(HttpEngine.java:315)
+W/FileTransfer( 3012): 	at libcore.net.http.HttpEngine.connect(HttpEngine.java:310)
+W/FileTransfer( 3012): 	at libcore.net.http.HttpEngine.sendSocketRequest(HttpEngine.java:289)
+W/FileTransfer( 3012): 	at libcore.net.http.HttpEngine.sendRequest(HttpEngine.java:239)
+W/FileTransfer( 3012): 	at libcore.net.http.HttpURLConnectionImpl.getResponse(HttpURLConnectionImpl.java:273)
+W/FileTransfer( 3012): 	at libcore.net.http.HttpURLConnectionImpl.getResponseCode(HttpURLConnectionImpl.java:486)
+W/FileTransfer( 3012): 	at org.apache.cordova.filetransfer.FileTransfer.createFileTransferError(FileTransfer.java:645)
+W/FileTransfer( 3012): 	at org.apache.cordova.filetransfer.FileTransfer.access$600(FileTransfer.java:69)
+W/FileTransfer( 3012): 	at org.apache.cordova.filetransfer.FileTransfer$1.run(FileTransfer.java:541)
+W/FileTransfer( 3012): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1076)
+W/FileTransfer( 3012): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:569)
+W/FileTransfer( 3012): 	at java.lang.Thread.run(Thread.java:856)
+W/FileTransfer( 3012): Caused by: libcore.io.ErrnoException: connect failed: ECONNREFUSED (Connection refused)
+W/FileTransfer( 3012): 	at libcore.io.Posix.connect(Native Method)
+W/FileTransfer( 3012): 	at libcore.io.BlockGuardOs.connect(BlockGuardOs.java:85)
+W/FileTransfer( 3012): 	at libcore.io.IoBridge.connectErrno(IoBridge.java:127)
+W/FileTransfer( 3012): 	at libcore.io.IoBridge.connect(IoBridge.java:112)
+W/FileTransfer( 3012): 	... 20 more
+E/FileTransfer( 3012): {"target":"http:\/\/localhost\/ng-gallery\/www\/uplods\/","http_status":0,"code":1,"source":"\/img\/images3.jpeg","exception":"\/img\/images3.jpeg: open failed: ENOENT (No such file or directory)"}
+E/FileTransfer( 3012): java.io.FileNotFoundException: /img/images3.jpeg: open failed: ENOENT (No such file or directory)
+E/FileTransfer( 3012): 	at libcore.io.IoBridge.open(IoBridge.java:416)
+E/FileTransfer( 3012): 	at java.io.FileInputStream.<init>(FileInputStream.java:78)
+E/FileTransfer( 3012): 	at java.io.FileInputStream.<init>(FileInputStream.java:105)
+E/FileTransfer( 3012): 	at org.apache.cordova.CordovaResourceApi.openForRead(CordovaResourceApi.java:249)
+E/FileTransfer( 3012): 	at org.apache.cordova.CordovaResourceApi.openForRead(CordovaResourceApi.java:232)
+E/FileTransfer( 3012): 	at org.apache.cordova.filetransfer.FileTransfer$1.run(FileTransfer.java:415)
+E/FileTransfer( 3012): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1076)
+E/FileTransfer( 3012): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:569)
+E/FileTransfer( 3012): 	at java.lang.Thread.run(Thread.java:856)
+E/FileTransfer( 3012): Caused by: libcore.io.ErrnoException: open failed: ENOENT (No such file or directory)
+E/FileTransfer( 3012): 	at libcore.io.Posix.open(Native Method)
+E/FileTransfer( 3012): 	at libcore.io.BlockGuardOs.open(BlockGuardOs.java:110)
+E/FileTransfer( 3012): 	at libcore.io.IoBridge.open(IoBridge.java:400)
+E/FileTransfer( 3012): 	... 8 more
+I/Web Console( 3012): ERROR: {"code":1,"source":"/img/images3.jpeg","target":"http://localhost/ng-gallery/www/uplods/","http_status":null,"body":null,"exception":"/img/images3.jpeg: open failed: ENOENT (No such file or directory)"} at file:///android_asset/www/js/app.js:95
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+D/dalvikvm(  311): GC_CONCURRENT freed 668K, 10% free 13610K/14983K, paused 5ms+4ms, total 42ms
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 3012): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 3012): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+D/Genyd   (   56): Received Set Clipboard
+D/Genymotion(   56): Received Set Clipboard
+I/ClipboardService(  311): Got clipboard for user=0
+I/ClipboardService(  311): Got clipboard for user=0
+I/ClipboardService(  311): Got clipboard for user=0
+I/ClipboardService(  311): Got clipboard for user=0
+I/ClipboardService(  311): Got clipboard for user=0
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 3012): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 3012): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 3012): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 3012): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 3012): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 3012): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 3012): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 3012): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 3012): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 3012): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 3012): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 3012): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 3012): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 3012): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+W/Web Console( 3012): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+D/AndroidRuntime( 3058): 
+D/AndroidRuntime( 3058): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+D/AndroidRuntime( 3058): CheckJNI is OFF
+D/dalvikvm( 3058): Unable to stat classpath element '/system/framework/filterfw.jar'
+D/dalvikvm( 3058): Trying to load lib libjavacore.so 0x0
+D/dalvikvm( 3058): Added shared lib libjavacore.so 0x0
+D/dalvikvm( 3058): Trying to load lib libnativehelper.so 0x0
+D/dalvikvm( 3058): Added shared lib libnativehelper.so 0x0
+D/AndroidRuntime( 3058): Calling main entry com.android.commands.pm.Pm
+W/ActivityManager(  311): No content provider found for permission revoke: file:///data/local/tmp/android-debug.apk
+D/dalvikvm( 1116): GC_CONCURRENT freed 360K, 5% free 10777K/11271K, paused 20ms+1ms, total 46ms
+W/Web Console( 3012): No Content-Security-Policy meta tag found. Please add one when using the cordova-plugin-whitelist plugin. at file:///android_asset/www/plugins/cordova-plugin-whitelist/whitelist.js:26
+W/ActivityManager(  311): No content provider found for permission revoke: file:///data/local/tmp/android-debug.apk
+D/dalvikvm(  311): GC_CONCURRENT freed 503K, 8% free 13787K/14983K, paused 14ms+1ms, total 33ms
+D/dalvikvm(  311): GC_CONCURRENT freed 682K, 8% free 13920K/14983K, paused 17ms+1ms, total 36ms
+I/PackageManager(  311): Removing non-system package:com.ionicframework.starter
+I/ActivityManager(  311): Force stopping package com.ionicframework.starter uid=10049
+I/ActivityManager(  311): Killing proc 3012:com.ionicframework.starter/u0a49: force stop
+W/ActivityManager(  311): Force removing ActivityRecord{537093a8 com.ionicframework.starter/.MainActivity}: app died, no saved state
+I/qtaguid (  311): Failed write_ctrl(s 0 10049) res=-1 errno=1
+W/NetworkManagementSocketTagger(  311): setKernelCountSet(10049, 0) failed with errno -1
+I/qtaguid (  311): Failed write_ctrl(s 1 10021) res=-1 errno=1
+W/NetworkManagementSocketTagger(  311): setKernelCountSet(10021, 1) failed with errno -1
+I/WindowState(  311): WIN DEATH: Window{537df17c com.ionicframework.starter/com.ionicframework.starter.MainActivity paused=false}
+I/PackageManager(  311): Package com.ionicframework.starter codePath changed from /data/app/com.ionicframework.starter-2.apk to /data/app/com.ionicframework.starter-1.apk; Retaining data and using new
+I/PackageManager(  311): Running dexopt on: com.ionicframework.starter
+D/dalvikvm( 3068): Unable to stat classpath element '/system/framework/filterfw.jar'
+D/dalvikvm( 3068): DexOpt: load 33ms, verify+opt 57ms, 470716 bytes
+W/EGL_genymotion(  500): eglSurfaceAttrib not implemented
+W/InputMethodManagerService(  311): Got RemoteException sending setActive(false) notification to pid 3012 uid 10049
+I/ActivityManager(  311): Force stopping package com.ionicframework.starter uid=10049
+W/PackageManager(  311): Code path for pkg : com.ionicframework.starter changing from /data/app/com.ionicframework.starter-2.apk to /data/app/com.ionicframework.starter-1.apk
+W/PackageManager(  311): Resource path for pkg : com.ionicframework.starter changing from /data/app/com.ionicframework.starter-2.apk to /data/app/com.ionicframework.starter-1.apk
+D/OpenGLRenderer(  500): TextureCache::get: create texture(0xb7ad69f0): name, size, mSize = 260, 1600, 1255504
+D/OpenGLRenderer(  500): TextureCache::get: create texture(0xb7af59b8): name, size, mSize = 261, 576, 1256080
+D/OpenGLRenderer(  500): TextureCache::get: create texture(0xb7af59f0): name, size, mSize = 262, 576, 1256656
+D/OpenGLRenderer(  500): TextureCache::get: create texture(0xb7a92ae0): name, size, mSize = 263, 4096, 1260752
+D/OpenGLRenderer(  500): TextureCache::get: create texture(0xb7c0aa68): name, size, mSize = 264, 57344, 1318096
+D/OpenGLRenderer(  500): TextureCache::get: create texture(0xb7ad43a0): name, size, mSize = 265, 36864, 1354960
+D/OpenGLRenderer(  500): TextureCache::get: create texture(0xb7b29d80): name, size, mSize = 266, 36864, 1391824
+D/OpenGLRenderer(  500): TextureCache::get: create texture(0xb7b80888): name, size, mSize = 268, 36864, 1428688
+D/OpenGLRenderer(  500): TextureCache::get: create texture(0xb7b35670): name, size, mSize = 269, 36864, 1465552
+D/OpenGLRenderer(  500): TextureCache::get: create texture(0xb7b185a8): name, size, mSize = 270, 36864, 1502416
+D/OpenGLRenderer(  500): TextureCache::get: create texture(0xb7ac3f80): name, size, mSize = 271, 36864, 1539280
+D/OpenGLRenderer(  500): TextureCache::get: create texture(0xb7b80580): name, size, mSize = 272, 614656, 2153936
+D/PackageManager(  311): New package installed in /data/app/com.ionicframework.starter-1.apk
+I/ActivityManager(  311): Force stopping package com.ionicframework.starter uid=10049
+D/dalvikvm(  500): WAIT_FOR_CONCURRENT_GC blocked 0ms
+D/dalvikvm(  536): WAIT_FOR_CONCURRENT_GC blocked 0ms
+D/dalvikvm(  500): GC_EXPLICIT freed 293K, 7% free 14611K/15687K, paused 3ms+0ms, total 41ms
+D/dalvikvm(  536): GC_EXPLICIT freed 138K, 4% free 10994K/11335K, paused 1ms+1ms, total 23ms
+D/dalvikvm(  311): WAIT_FOR_CONCURRENT_GC blocked 0ms
+I/InputReader(  311): Reconfiguring input devices.  changes=0x00000010
+D/dalvikvm( 1154): GC_CONCURRENT freed 404K, 5% free 10729K/11271K, paused 3ms+0ms, total 9ms
+I/InputReader(  311): Reconfiguring input devices.  changes=0x00000010
+D/dalvikvm(  311): GC_EXPLICIT freed 1282K, 11% free 13481K/14983K, paused 27ms+2ms, total 171ms
+D/PackageManager(  311): generateServicesMap(android.accounts.AccountAuthenticator): 2 services unchanged
+D/dalvikvm(  311): WAIT_FOR_CONCURRENT_GC blocked 42ms
+D/PackageManager(  311): generateServicesMap(android.content.SyncAdapter): 4 services unchanged
+D/PackageManager(  311): generateServicesMap(android.accounts.AccountAuthenticator): 2 services unchanged
+D/BackupManagerService(  311): Received broadcast Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.ionicframework.starter flg=0x8000010 (has extras) }
+D/PackageManager(  311): generateServicesMap(android.content.SyncAdapter): 4 services unchanged
+D/BackupManagerService(  311): Received broadcast Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.ionicframework.starter flg=0x8000010 (has extras) }
+V/BackupManagerService(  311): removePackageParticipantsLocked: uid=10049 #1
+V/BackupManagerService(  311): addPackageParticipantsLocked: #1
+W/ResourceType(  311): Failure getting entry for 0x7f060000 (t=5 e=0) in package 0 (error -75)
+W/ResourceType(  311): Failure getting entry for 0x7f060000 (t=5 e=0) in package 0 (error -75)
+W/InputMethodManagerService(  311): Found no subtypes in a system IME: com.android.inputmethod.pinyin
+W/RecognitionManagerService(  311): no available voice recognition services found
+D/dalvikvm(  311): GC_EXPLICIT freed 625K, 12% free 13228K/14983K, paused 2ms+4ms, total 148ms
+D/AndroidRuntime( 3058): Shutting down VM
+D/dalvikvm( 3058): GC_CONCURRENT freed 96K, 90% free 445K/4096K, paused 1ms+0ms, total 5ms
+I/AndroidRuntime( 3058): NOTE: attach of thread 'Binder_3' failed
+D/OpenGLRenderer(  500): TextureCache::get: create texture(0xb7a26cb0): name, size, mSize = 279, 57344, 2211280
+D/AndroidRuntime( 3078): 
+D/AndroidRuntime( 3078): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+D/AndroidRuntime( 3078): CheckJNI is OFF
+D/dalvikvm( 3078): Unable to stat classpath element '/system/framework/filterfw.jar'
+D/dalvikvm( 3078): Trying to load lib libjavacore.so 0x0
+D/dalvikvm( 3078): Added shared lib libjavacore.so 0x0
+D/dalvikvm( 3078): Trying to load lib libnativehelper.so 0x0
+D/dalvikvm( 3078): Added shared lib libnativehelper.so 0x0
+D/AndroidRuntime( 3078): Calling main entry com.android.commands.input.Input
+I/Input   ( 3078): InjectKeyEvent: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_MENU, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=4660738, downTime=4660738, deviceId=-1, source=0x101 }
+I/Input   ( 3078): InjectKeyEvent: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_MENU, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=4660738, downTime=4660738, deviceId=-1, source=0x101 }
+W/AudioWatchdog(  128): Insufficient CPU for load: expected=50.0 actual=743.4 ms; underruns=8 logs=6
+I/Choreographer(  500): Skipped 45 frames!  The application may be doing too much work on its main thread.
+D/AndroidRuntime( 3078): Shutting down VM
+D/dalvikvm( 3078): GC_CONCURRENT freed 98K, 90% free 440K/4096K, paused 1ms+1ms, total 7ms
+I/AndroidRuntime( 3078): NOTE: attach of thread 'Binder_2' failed
+W/EGL_genymotion(  500): eglSurfaceAttrib not implemented
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+D/AndroidRuntime( 3090): 
+D/AndroidRuntime( 3090): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+D/AndroidRuntime( 3090): CheckJNI is OFF
+D/dalvikvm( 3090): Unable to stat classpath element '/system/framework/filterfw.jar'
+D/dalvikvm( 3090): Trying to load lib libjavacore.so 0x0
+D/dalvikvm( 3090): Added shared lib libjavacore.so 0x0
+D/dalvikvm( 3090): Trying to load lib libnativehelper.so 0x0
+D/dalvikvm( 3090): Added shared lib libnativehelper.so 0x0
+D/AndroidRuntime( 3090): Calling main entry com.android.commands.am.Am
+I/ActivityManager(  311): START {act=android.intent.action.MAIN flg=0x10000000 cmp=com.ionicframework.starter/.MainActivity u=0} from pid 3090
+E/SocketStream(  242): readFully was waiting for 716352 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 700160 bytes, got 4080 
+E/SocketStream(  242): readFully was waiting for 696080 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 679888 bytes, got 4080 
+E/SocketStream(  242): readFully was waiting for 675808 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 659616 bytes, got 4080 
+E/SocketStream(  242): readFully was waiting for 655536 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 639344 bytes, got 4080 
+E/SocketStream(  242): readFully was waiting for 635264 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 619072 bytes, got 6976 
+E/SocketStream(  242): readFully was waiting for 612096 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 595904 bytes, got 4080 
+E/SocketStream(  242): readFully was waiting for 591824 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 575632 bytes, got 5528 
+E/SocketStream(  242): readFully was waiting for 570104 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 553912 bytes, got 5528 
+E/SocketStream(  242): readFully was waiting for 548384 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 532192 bytes, got 5528 
+E/SocketStream(  242): readFully was waiting for 526664 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 510472 bytes, got 5528 
+E/SocketStream(  242): readFully was waiting for 504944 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 488752 bytes, got 5528 
+E/SocketStream(  242): readFully was waiting for 483224 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 467032 bytes, got 6976 
+E/SocketStream(  242): readFully was waiting for 460056 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 443864 bytes, got 6976 
+E/SocketStream(  242): readFully was waiting for 436888 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 420696 bytes, got 6976 
+E/SocketStream(  242): readFully was waiting for 413720 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 397528 bytes, got 8424 
+E/SocketStream(  242): readFully was waiting for 389104 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 372912 bytes, got 8424 
+E/SocketStream(  242): readFully was waiting for 364488 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 348296 bytes, got 8424 
+E/SocketStream(  242): readFully was waiting for 339872 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 323680 bytes, got 8424 
+E/SocketStream(  242): readFully was waiting for 315256 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 299064 bytes, got 8424 
+E/SocketStream(  242): readFully was waiting for 290640 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 274448 bytes, got 8424 
+E/SocketStream(  242): readFully was waiting for 266024 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 249832 bytes, got 9872 
+E/SocketStream(  242): readFully was waiting for 239960 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 223768 bytes, got 9872 
+E/SocketStream(  242): readFully was waiting for 213896 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 197704 bytes, got 11320 
+E/SocketStream(  242): readFully was waiting for 186384 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 170192 bytes, got 9872 
+E/SocketStream(  242): readFully was waiting for 160320 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 144128 bytes, got 11320 
+E/SocketStream(  242): readFully was waiting for 132808 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 116616 bytes, got 11320 
+E/SocketStream(  242): readFully was waiting for 105296 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 89104 bytes, got 11320 
+E/SocketStream(  242): readFully was waiting for 77784 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 61592 bytes, got 12768 
+E/SocketStream(  242): readFully was waiting for 48824 bytes, got 16192 
+E/SocketStream(  242): readFully was waiting for 32632 bytes, got 11320 
+E/SocketStream(  242): readFully was waiting for 21312 bytes, got 16192 
+D/dalvikvm(  311): GC_CONCURRENT freed 146K, 10% free 13608K/14983K, paused 13ms+1ms, total 150ms
+D/dalvikvm( 3099): Late-enabling CheckJNI
+D/dalvikvm(  182): WAIT_FOR_CONCURRENT_GC blocked 0ms
+I/ActivityManager(  311): Start proc com.ionicframework.starter for activity com.ionicframework.starter/.MainActivity: pid=3099 uid=10049 gids={3003, 1028}
+D/dalvikvm(  182): GC_EXPLICIT freed 37K, 3% free 10689K/11011K, paused 3ms+11ms, total 64ms
+D/dalvikvm(  182): WAIT_FOR_CONCURRENT_GC blocked 0ms
+D/dalvikvm(  182): GC_EXPLICIT freed <1K, 3% free 10689K/11011K, paused 4ms+1ms, total 36ms
+D/dalvikvm(  182): WAIT_FOR_CONCURRENT_GC blocked 0ms
+D/dalvikvm(  182): GC_EXPLICIT freed <1K, 3% free 10689K/11011K, paused 1ms+0ms, total 47ms
+D/OpenGLRenderer(  500): TextureCache::flush: target size: 1326768
+D/OpenGLRenderer(  500): TextureCache::callback: name, removed size, mSize = 264, 57344, 2153936
+D/OpenGLRenderer(  500): TextureCache::callback: name, removed size, mSize = 261, 576, 2153360
+D/OpenGLRenderer(  500): TextureCache::callback: name, removed size, mSize = 262, 576, 2152784
+D/OpenGLRenderer(  500): TextureCache::callback: name, removed size, mSize = 265, 36864, 2115920
+D/OpenGLRenderer(  500): TextureCache::callback: name, removed size, mSize = 266, 36864, 2079056
+D/OpenGLRenderer(  500): TextureCache::callback: name, removed size, mSize = 268, 36864, 2042192
+D/OpenGLRenderer(  500): TextureCache::callback: name, removed size, mSize = 269, 36864, 2005328
+D/OpenGLRenderer(  500): TextureCache::callback: name, removed size, mSize = 270, 36864, 1968464
+D/OpenGLRenderer(  500): TextureCache::callback: name, removed size, mSize = 271, 36864, 1931600
+D/OpenGLRenderer(  500): TextureCache::callback: name, removed size, mSize = 272, 614656, 1316944
+I/qtaguid (  311): Failed write_ctrl(s 1 10049) res=-1 errno=1
+W/NetworkManagementSocketTagger(  311): setKernelCountSet(10049, 1) failed with errno -1
+I/dalvikvm( 3099): Could not find method android.app.Activity.checkSelfPermission, referenced from method org.apache.cordova.CordovaInterfaceImpl.hasPermission
+W/dalvikvm( 3099): VFY: unable to resolve virtual method 1: Landroid/app/Activity;.checkSelfPermission (Ljava/lang/String;)I
+D/dalvikvm( 3099): VFY: replacing opcode 0x6e at 0x0009
+I/dalvikvm( 3099): Could not find method android.app.Activity.requestPermissions, referenced from method org.apache.cordova.CordovaInterfaceImpl.requestPermission
+W/dalvikvm( 3099): VFY: unable to resolve virtual method 18: Landroid/app/Activity;.requestPermissions ([Ljava/lang/String;I)V
+D/dalvikvm( 3099): VFY: replacing opcode 0x6e at 0x000c
+I/dalvikvm( 3099): Could not find method android.app.Activity.requestPermissions, referenced from method org.apache.cordova.CordovaInterfaceImpl.requestPermissions
+W/dalvikvm( 3099): VFY: unable to resolve virtual method 18: Landroid/app/Activity;.requestPermissions ([Ljava/lang/String;I)V
+D/dalvikvm( 3099): VFY: replacing opcode 0x6e at 0x0006
+I/dalvikvm( 3099): Could not find method android.webkit.WebView.setWebContentsDebuggingEnabled, referenced from method org.apache.cordova.engine.SystemWebViewEngine.enableRemoteDebugging
+W/dalvikvm( 3099): VFY: unable to resolve static method 198: Landroid/webkit/WebView;.setWebContentsDebuggingEnabled (Z)V
+D/dalvikvm( 3099): VFY: replacing opcode 0x71 at 0x0001
+I/dalvikvm( 3099): Could not find method android.webkit.WebSettings.setMediaPlaybackRequiresUserGesture, referenced from method org.apache.cordova.engine.SystemWebViewEngine.initWebViewSettings
+W/dalvikvm( 3099): VFY: unable to resolve virtual method 186: Landroid/webkit/WebSettings;.setMediaPlaybackRequiresUserGesture (Z)V
+D/dalvikvm( 3099): VFY: replacing opcode 0x6e at 0x0080
+I/dalvikvm( 3099): Could not find method android.webkit.CookieManager.setAcceptThirdPartyCookies, referenced from method org.apache.cordova.engine.SystemCookieManager.<init>
+W/dalvikvm( 3099): VFY: unable to resolve virtual method 150: Landroid/webkit/CookieManager;.setAcceptThirdPartyCookies (Landroid/webkit/WebView;Z)V
+D/dalvikvm( 3099): VFY: replacing opcode 0x6e at 0x0016
+I/dalvikvm( 3099): Could not find method android.webkit.CookieManager.flush, referenced from method org.apache.cordova.engine.SystemCookieManager.flush
+W/dalvikvm( 3099): VFY: unable to resolve virtual method 145: Landroid/webkit/CookieManager;.flush ()V
+D/dalvikvm( 3099): VFY: replacing opcode 0x6e at 0x0008
+W/dalvikvm( 3099): VFY: unable to find class referenced in signature (Landroid/webkit/ClientCertRequest;)
+W/dalvikvm( 3099): VFY: unable to find class referenced in signature (Landroid/webkit/ClientCertRequest;)
+I/dalvikvm( 3099): Could not find method android.webkit.WebViewClient.onReceivedClientCertRequest, referenced from method org.apache.cordova.engine.SystemWebViewClient.onReceivedClientCertRequest
+W/dalvikvm( 3099): VFY: unable to resolve virtual method 203: Landroid/webkit/WebViewClient;.onReceivedClientCertRequest (Landroid/webkit/WebView;Landroid/webkit/ClientCertRequest;)V
+D/dalvikvm( 3099): VFY: replacing opcode 0x6f at 0x001a
+W/dalvikvm( 3099): VFY: unable to find class referenced in signature (Landroid/webkit/PermissionRequest;)
+I/dalvikvm( 3099): Could not find method android.webkit.PermissionRequest.getResources, referenced from method org.apache.cordova.engine.SystemWebChromeClient.onPermissionRequest
+W/dalvikvm( 3099): VFY: unable to resolve virtual method 161: Landroid/webkit/PermissionRequest;.getResources ()[Ljava/lang/String;
+D/dalvikvm( 3099): VFY: replacing opcode 0x6e at 0x000d
+I/dalvikvm( 3099): Could not find method android.webkit.WebChromeClient$FileChooserParams.createIntent, referenced from method org.apache.cordova.engine.SystemWebChromeClient.onShowFileChooser
+W/dalvikvm( 3099): VFY: unable to resolve virtual method 166: Landroid/webkit/WebChromeClient$FileChooserParams;.createIntent ()Landroid/content/Intent;
+D/dalvikvm( 3099): VFY: replacing opcode 0x6e at 0x0000
+D/SystemWebViewEngine( 3099): CordovaWebView is running on device made by: Genymotion
+I/SystemWebViewEngine( 3099): Disabled addJavascriptInterface() bridge since Android version is old.
+D/libEGL  ( 3099): loaded /system/lib/egl/libEGL_genymotion.so
+D/        ( 3099): HostConnection::get() New Host Connection established 0xb7b8ea18, tid 3099
+E/SocketStream( 3099): readFully was waiting for 30848 bytes, got 16192 
+E/SocketStream( 3099): readFully was waiting for 14656 bytes, got 6976 
+D/libEGL  ( 3099): loaded /system/lib/egl/libGLESv1_CM_genymotion.so
+D/libEGL  ( 3099): loaded /system/lib/egl/libGLESv2_genymotion.so
+D/dalvikvm( 3099): GC_CONCURRENT freed 184K, 3% free 10970K/11271K, paused 25ms+3ms, total 39ms
+D/chromium( 3099): Unknown chromium error: -6
+W/EGL_genymotion( 3099): eglSurfaceAttrib not implemented
+D/OpenGLRenderer( 3099): Enabling debug mode 0
+I/Choreographer( 3099): Skipped 110 frames!  The application may be doing too much work on its main thread.
+D/OpenGLRenderer( 3099): TextureCache::get: create texture(0xb7af28b8): name, size, mSize = 1, 1048576, 1048576
+D/JsMessageQueue( 3099): Set native->JS mode to OnlineEventsBridgeMode
+I/ActivityManager(  311): Displayed com.ionicframework.starter/.MainActivity: +3s236ms
+D/AndroidRuntime( 3090): Shutting down VM
+D/dalvikvm( 3090): GC_CONCURRENT freed 98K, 89% free 478K/4096K, paused 0ms+0ms, total 2ms
+I/AndroidRuntime( 3090): NOTE: attach of thread 'Binder_3' failed
+I/qtaguid (  311): Failed write_ctrl(s 0 10021) res=-1 errno=1
+W/NetworkManagementSocketTagger(  311): setKernelCountSet(10021, 0) failed with errno -1
+D/chromium( 3099): Unknown chromium error: -6
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+I/Web Console( 3099): VOB 2 at file:///android_asset/www/js/controller.js:4
+D/chromium( 3099): Unknown chromium error: -6
+D/TilesManager( 3099): new EGLContext from framework: b7ebcc68 
+D/GLWebViewState( 3099): Reinit shader
+D/GLWebViewState( 3099): Reinit transferQueue
+D/dalvikvm( 3099): GC_CONCURRENT freed 530K, 7% free 10856K/11591K, paused 14ms+0ms, total 24ms
+D/dalvikvm(  311): GC_CONCURRENT freed 655K, 10% free 13601K/14983K, paused 3ms+1ms, total 48ms
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'
+E/Genymotion(  311): Could not open '/sys/class/power_supply/genymotion_fake_path/present'

@@ -1,0 +1,44 @@
+<div class="modal">
+
+    <!-- Modal header bar -->
+    <ion-header-bar class="bar-secondary">
+        <h1 class="title">Update Bank</h1>
+        <button class="button button-clear button-positive" ng-click="closeModelEB()">Cancel</button>
+    </ion-header-bar>
+
+    <!-- Modal content area -->
+    <ion-content>
+
+        <div class="row hit">
+            <div class="col col-80 col-offset-10">
+
+                <br>
+
+                <h1>CHANGE</h1>
+                <h4>Update bank details</h4>
+                <br>
+                
+                <form novalidate>
+                    
+                    
+                    <ion-list>
+                        <label class="item item-input amount">
+                            <input type="text" placeholder="Title" ng-model="fd.the_title" required>
+                        </label>
+                    </ion-list>
+                    
+                    <ion-list>
+                        <label class="item item-input amount">
+                            <input type="text" placeholder="Amount" ng-model="fd.the_amount" required>
+                        </label>
+                    </ion-list>
+                    <input type="hidden" ng-model="fd.bankId" >
+                    <button class="button button-block button-calm" ng-click="updateBank(fd)">SAVE</button>
+
+                </form>
+
+            </div>
+        </div>
+
+    </ion-content>
+</div>

@@ -1,0 +1,14 @@
+<ion-view title="{{bankTitle}} - TRANSACTIONS">
+
+    <ion-content>
+        
+        <ul class="list">
+            <li class="item">Balance: {{balance}}</li>
+            <li class="item" ng-repeat="transaction in bankTransactions">
+                <h2>{{transaction.amount}}</h2>
+                <p>{{ transaction.time |date:'dd/MM/yyyy @ h:mma' }} - {{transaction.type | capitalize}}</p>
+            </li>
+        </ul>
+    </ion-content>
+
+</ion-view>
