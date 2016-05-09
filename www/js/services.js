@@ -1,5 +1,7 @@
-app.service("moderator", function (transactionService, bankService) {
+app.service("moderator", function (transactionService, bankService, storeService) {
 
+
+    this.lastBank = 'last_bank_transaction';
 
     this.deleteTheBank = function (index) {
         var banks = bankService.all();
@@ -9,6 +11,27 @@ app.service("moderator", function (transactionService, bankService) {
             transactionService.deleteAllTransactionsOfBank(bankTitle);
         }
 
+    }
+
+    this.setLastBank = function (bankTitle) {
+        if (typeof bankTitle != 'undefined') {
+            storeService.update(this.lastBank, bankTitle);
+        } else {
+            var last = storeService.all(this.lastBank);
+            if (last == "") {
+                var banks = bankService.all();
+                last = banks[0].title;
+            }
+            return last
+        }
+
+    }
+
+    this.makeTransaction = function (fd) {
+        var data = {amount: fd.the_amount, bank: fd.the_bank, type: fd.the_type};
+        transactionService.add(data);
+        bankService.updateBalance(data.bank, data.amount, data.type);
+        this.setLastBank(data.bank);
     }
 
 
@@ -34,6 +57,7 @@ app.service("storeService", function () {
 app.service("transactionService", function (storeService) {
 
     this.storeTitle = 'transaction_list';
+
 
     this.all = function () {
         return storeService.all(this.storeTitle)
@@ -92,6 +116,8 @@ app.service("transactionService", function (storeService) {
 
         storeService.update(this.storeTitle, store_list);
     }
+
+
 
 });
 

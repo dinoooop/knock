@@ -29,11 +29,12 @@ Creating bank listing page
 Creating transaction listing page
 Make transaction
 Create bank add page
-
-##Now
 Create bank edit page
 
+##Now
+Set last chosen bank by default (service.js - 97)
+
 ## Next
-Set last chosen bank by default
+
 Delete bank
 Delete transaction

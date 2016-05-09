@@ -15,20 +15,20 @@
                 <form novalidate>
                     
                     
-                    <kn-radio items="banks" heading="Choose your bank" lock="cp.the_bank"></kn-radio>
+                    <kn-radio items="banks" heading="Choose your bank" lock="fd.the_bank"></kn-radio>
                     
                     <ion-list>
-                        <ion-radio ng-model="cp.the_type" ng-value="'debit'">Debit</ion-radio>
-                        <ion-radio ng-model="cp.the_type" ng-value="'credit'">Credit</ion-radio>
+                        <ion-radio ng-model="fd.the_type" ng-value="'debit'">Debit</ion-radio>
+                        <ion-radio ng-model="fd.the_type" ng-value="'credit'">Credit</ion-radio>
                     </ion-list>
                     
                     <ion-list>
                         <label class="item item-input amount">
-                            <input type="text" placeholder="Amount" ng-model="cp.the_amount" required>
+                            <input type="text" placeholder="Amount" ng-model="fd.the_amount" required>
                         </label>
                     </ion-list>
 
-                    <button class="button button-block button-calm" ng-click="createTransaction(cp)">MAKE</button>
+                    <button class="button button-block button-calm" ng-click="makeTransaction(fd)">MAKE</button>
 
                 </form>
 

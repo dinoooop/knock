@@ -1,38 +1,29 @@
 app.controller('testCtrl', function ($scope, $state, $ionicModal, $ionicPopup, bankService, transactionService, moderator) {
 
-    if (0) {
+    if (1) {
         bankService.setDefault();
         transactionService.setDefault();
     }
 
-    var banks = bankService.all();
-    var transactions = transactionService.all();
+    var banks = moderator.setLastBank();
 
     console.log(JSON.stringify(banks));
-    console.log(JSON.stringify(transactions));
+
 
 });
 
-app.controller('homeCtrl', function ($scope, $state, $ionicModal, $ionicPopup, bankService, transactionService) {
-
-//    bankService.setDefault();
-//    transactionService.setDefault();
+app.controller('homeCtrl', function ($scope, $state, bankService, moderator) {
+    
     $scope.banks = bankService.all();
-
-
+    console.log(moderator.setLastBank());
     //Default
-    $scope.cp = {
-        the_bank: "XL",
+    $scope.fd = {
+        the_bank: moderator.setLastBank(),
         the_type: "debit",
     };
-
-
-    // Checkbox window for banks
-
-    $scope.createTransaction = function (cp) {
-        var data = {amount: cp.the_amount, bank: cp.the_bank, type: cp.the_type};
-        transactionService.add(data);
-        bankService.updateBalance(data.bank, data.amount, data.type);
+    
+    $scope.makeTransaction = function (fd) {
+        moderator.makeTransaction(fd)
         $state.go('app.bank');
     }
 
@@ -49,11 +40,11 @@ app.controller('bankCtrl', function ($scope, moderator, $timeout, $ionicActionSh
         scope: $scope
     });
 
-    $scope.showModal = function () {
+    $scope.showModelCB = function () {
         $scope.modelCB.show();
     }
 
-    $scope.closeModel = function () {
+    $scope.closeModelCB = function () {
         $scope.modelCB.hide();
     }
 
