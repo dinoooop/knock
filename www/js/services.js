@@ -1,6 +1,5 @@
 app.service("moderator", function (transactionService, bankService, storeService) {
 
-
     this.lastBank = 'last_bank_transaction';
 
     this.deleteTheBank = function (index) {
@@ -10,21 +9,20 @@ app.service("moderator", function (transactionService, bankService, storeService
             bankService.delete(index);
             transactionService.deleteAllTransactionsOfBank(bankTitle);
         }
-
     }
 
     this.setLastBank = function (bankTitle) {
-        if (typeof bankTitle != 'undefined') {
+        if (typeof bankTitle != "undefined") {
             storeService.update(this.lastBank, bankTitle);
         } else {
             var last = storeService.all(this.lastBank);
-            if (last == "") {
+            if (typeof last == "undefined" && last.length == 0) {
                 var banks = bankService.all();
                 last = banks[0].title;
+                storeService.update(this.lastBank, last);
             }
             return last
         }
-
     }
 
     this.makeTransaction = function (fd) {
@@ -34,7 +32,27 @@ app.service("moderator", function (transactionService, bankService, storeService
         this.setLastBank(data.bank);
     }
 
-
+    this.loadDefault = function () {
+        var banks = bankService.all();
+        if (typeof banks != "undefined" && banks.length != 0) {
+            return true;
+        } else {
+            bankService.setDefault();
+            transactionService.setDefault();
+        }
+    }
+    
+    this.deleteTheTransaction = function(transactionId){
+        
+        var transaction = transactionService.get(transactionId);
+        console.log(JSON.stringify(transaction));
+        
+        // the twist
+        var type = (transaction.type == 'debit')? 'credit' : 'debit';
+        
+        bankService.updateBalance(transaction.bank, transaction.amount, type);
+        transactionService.delete(transactionId);
+    }
 
 });
 
@@ -52,15 +70,20 @@ app.service("storeService", function () {
         var option_value = (option_value == '') ? option_value : angular.toJson(option_value);
         window.localStorage[option_name] = option_value;
     }
+
 });
 
 app.service("transactionService", function (storeService) {
 
     this.storeTitle = 'transaction_list';
 
-
     this.all = function () {
-        return storeService.all(this.storeTitle)
+        return storeService.all(this.storeTitle);
+    }
+    
+    this.get = function (id) {
+        var store_list = this.all();
+        return store_list[id];
     }
 
     this.add = function (data) {
@@ -107,7 +130,6 @@ app.service("transactionService", function (storeService) {
     }
 
     this.setDefault = function () {
-
         var store_list = [
             {time: "1244323623006", amount: "200", bank: "XL", type: "debit"},
             {time: "1255523653006", amount: "300", bank: "CV", type: "credit"},
@@ -115,9 +137,8 @@ app.service("transactionService", function (storeService) {
         ];
 
         storeService.update(this.storeTitle, store_list);
+
     }
-
-
 
 });
 

@@ -30,11 +30,11 @@ Creating transaction listing page
 Make transaction
 Create bank add page
 Create bank edit page
+Set last chosen bank by default 
+Delete transaction
 
 ##Now
-Set last chosen bank by default (service.js - 97)
+Set message for add transaction
 
 ## Next
-
-Delete bank
-Delete transaction
+Add color to debit, credit
