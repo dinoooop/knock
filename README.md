@@ -34,7 +34,8 @@ Set last chosen bank by default
 Delete transaction
 
 ##Now
-Set message for add transaction
+
 
 ## Next
+Set message for add transaction
 Add color to debit, credit

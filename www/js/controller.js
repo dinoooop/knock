@@ -1,10 +1,10 @@
 app.controller('testCtrl', function ($scope, $state, $ionicModal, $ionicPopup, bankService, transactionService, moderator) {
 
-    if (0) {
+    if (1) {
         bankService.setDefault();
         transactionService.setDefault();
     }
-
+   
 });
 
 app.controller('homeCtrl', function ($scope, $state, bankService, moderator) {
@@ -136,7 +136,6 @@ app.controller('transactionCtrl', function ($scope, moderator, $timeout, $ionicA
         // Show the action sheet
         var hideSheet = $ionicActionSheet.show({
             buttons: [
-                
             ],
             destructiveText: 'Delete',
             titleText: 'Modify transaction',
@@ -152,7 +151,7 @@ app.controller('transactionCtrl', function ($scope, moderator, $timeout, $ionicA
                 return true;
             },
             destructiveButtonClicked: function () {
-                
+
                 moderator.deleteTheTransaction(transactionId)
 
                 //reset values

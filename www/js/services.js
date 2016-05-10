@@ -41,15 +41,15 @@ app.service("moderator", function (transactionService, bankService, storeService
             transactionService.setDefault();
         }
     }
-    
-    this.deleteTheTransaction = function(transactionId){
-        
+
+    this.deleteTheTransaction = function (transactionId) {
+
         var transaction = transactionService.get(transactionId);
         console.log(JSON.stringify(transaction));
-        
+
         // the twist
-        var type = (transaction.type == 'debit')? 'credit' : 'debit';
-        
+        var type = (transaction.type == 'debit') ? 'credit' : 'debit';
+
         bankService.updateBalance(transaction.bank, transaction.amount, type);
         transactionService.delete(transactionId);
     }
@@ -76,19 +76,36 @@ app.service("storeService", function () {
 app.service("transactionService", function (storeService) {
 
     this.storeTitle = 'transaction_list';
+    this.storeIdStatus = 'transaction_id_count';
+
+    this.getId = function () {
+        var id = storeService.all(this.storeIdStatus);
+        
+        if (id == "") {
+            id = 1;
+            storeService.update(this.storeIdStatus, id);
+            
+        } else {
+            id = parseInt(id) + 1;
+            storeService.update(this.storeIdStatus, id);
+        }
+        return id;
+        
+    }
 
     this.all = function () {
         return storeService.all(this.storeTitle);
     }
-    
+
     this.get = function (id) {
         var store_list = this.all();
-        return store_list[id];
+        return store_list.getObj('id', id).data;
     }
 
     this.add = function (data) {
         var store_list = storeService.all(this.storeTitle);
         data.time = new Date().getTime();
+        data.id = this.getId();
         var new_store = this.refine(data);
         if (new_store.status) {
             store_list.push(new_store.data);
@@ -96,18 +113,25 @@ app.service("transactionService", function (storeService) {
         }
     }
 
-    this.update = function (index, data) {
+    this.update = function (id, data) {
+
         var store_list = storeService.all(this.storeTitle);
+        var index = store_list.getObj('id', id).index;
+
         var edited_store = this.refine(data);
+
         if (edited_store.status) {
             store_list[index] = edited_store.data;
             storeService.update(this.storeTitle, store_list);
         }
     }
 
-    this.delete = function (index) {
+    this.delete = function (id) {
+
         var store_list = storeService.all(this.storeTitle);
+        var index = store_list.getObj('id', id).index;
         store_list.splice(index, 1);
+
         storeService.update(this.storeTitle, store_list);
     }
 
@@ -119,7 +143,7 @@ app.service("transactionService", function (storeService) {
 
         return {
             status: true,
-            data: {time: data.time, amount: data.amount, bank: data.bank, type: data.type}
+            data: {id: data.id, time: data.time, amount: data.amount, bank: data.bank, type: data.type}
         };
     }
 
@@ -131,12 +155,13 @@ app.service("transactionService", function (storeService) {
 
     this.setDefault = function () {
         var store_list = [
-            {time: "1244323623006", amount: "200", bank: "XL", type: "debit"},
-            {time: "1255523653006", amount: "300", bank: "CV", type: "credit"},
-            {time: "1288323623006", amount: "500", bank: "CV", type: "debit"},
+            {id: 1, time: "1244323623006", amount: "200", bank: "XL", type: "debit"},
+            {id: 2, time: "1255523653006", amount: "300", bank: "CV", type: "credit"},
+            {id: 3, time: "1288323623006", amount: "500", bank: "CV", type: "debit"},
         ];
 
         storeService.update(this.storeTitle, store_list);
+        storeService.update(this.storeIdStatus, 0);
 
     }
 
@@ -233,3 +258,4 @@ app.service("bankService", function (storeService) {
     }
 
 });
+
