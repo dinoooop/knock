@@ -20,9 +20,23 @@ app.controller('homeCtrl', function ($scope, $state, bankService, moderator) {
         the_type: "debit",
     };
 
-    $scope.makeTransaction = function (fd) {
+    $scope.submitTransaction = function (fd) {
+        
+        
+        if (typeof fd.the_amount == "undefined" || isNaN(fd.the_amount)) {
+            alert("Please enter an amount!");
+            return false;
+        }
 
-        moderator.makeTransaction(fd)
+        var balance = bankService.balance(fd.the_bank_id);
+
+        if (balance < fd.the_amount) {
+            alert("You haven't sufficient amount to make this transaction");
+            return false;
+        }
+
+        var data = {amount: fd.the_amount, bank_id: fd.the_bank_id, type: fd.the_type};
+        moderator.makeTransaction(data)
         $scope.fd.the_amount = "";
     }
 
@@ -113,7 +127,7 @@ app.controller('bankCtrl', function ($scope, moderator, $timeout, $ionicActionSh
             }
         });
 
-        // For example's sake, hide the sheet after two seconds
+        // Hide the sheet after three seconds
         $timeout(function () {
             hideSheet();
         }, 3000);
@@ -127,13 +141,10 @@ app.controller('transactionCtrl', function ($scope, moderator, $timeout, $ionicA
     var theBank = bankService.get(bankId);
 
     $scope.bankTitle = theBank.title;
-
     $scope.bankTransactions = transactionService.getAllTransactionsOfBank(bankId);
-
     $scope.balance = bankService.balance(bankId);
 
     $scope.hold = function (transactionId) {
-
 
         // Show the action sheet
         var hideSheet = $ionicActionSheet.show({

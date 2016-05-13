@@ -67,8 +67,7 @@ app.config(function (appConfig, $stateProvider, $urlRouterProvider) {
                     }
                 }
             });
-
-
+            
 
     if (appConfig.developmentMode) {
         $stateProvider.state('app.test', {
