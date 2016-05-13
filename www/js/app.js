@@ -1,7 +1,11 @@
 
 var app = angular.module('knock', ['ionic']);
 
-app.config(function ($stateProvider, $urlRouterProvider) {
+app.constant('appConfig', {
+    developmentMode: true,
+});
+
+app.config(function (appConfig, $stateProvider, $urlRouterProvider) {
 
     $stateProvider
             .state('app', {
@@ -9,18 +13,6 @@ app.config(function ($stateProvider, $urlRouterProvider) {
                 templateUrl: 'templates/main-template.html',
                 abstract: true,
             })
-            
-//            .state('app.test', {
-//                url: '/test',
-//                cache: false,
-//                views: {
-//                    menuContent: {
-//                        templateUrl: 'pages/test.html',
-//                        controller: 'testCtrl'
-//                    }
-//                }
-//            })
-
             .state('app.home', {
                 url: '/home',
                 cache: false,
@@ -76,14 +68,29 @@ app.config(function ($stateProvider, $urlRouterProvider) {
                 }
             });
 
-    $urlRouterProvider.otherwise('/app/home');
-    //$urlRouterProvider.otherwise('/app/test');
+
+
+    if (appConfig.developmentMode) {
+        $stateProvider.state('app.test', {
+            url: '/test',
+            cache: false,
+            views: {
+                menuContent: {
+                    templateUrl: 'pages/test.html',
+                    controller: 'testCtrl'
+                }
+            }
+        });
+        $urlRouterProvider.otherwise('/app/test');
+    } else {
+        $urlRouterProvider.otherwise('/app/home');
+    }
 
 });
 
 
-app.filter('capitalize', function() {
-    return function(input) {
-      return (!!input) ? input.charAt(0).toUpperCase() + input.substr(1).toLowerCase() : '';
+app.filter('capitalize', function () {
+    return function (input) {
+        return (!!input) ? input.charAt(0).toUpperCase() + input.substr(1).toLowerCase() : '';
     }
 });

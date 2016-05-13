@@ -15,34 +15,35 @@
         <ion-nav-view name="menuContent"></ion-nav-view>
 
     </ion-side-menu-content>
+    <div class="first" ng-controller="sidebarCtrl">
 
-    <ion-side-menu side="left">
-        <ion-header-bar class="bar-dark">
+        <ion-side-menu side="left">
+            <ion-header-bar class="bar-dark">
 
-        </ion-header-bar>
-        <ion-content class="dark-bg">
-            <ion-list>
+            </ion-header-bar>
+            <ion-content class="dark-bg">
+                <ion-list>
 
-                <ion-item menu-close class="item-icon-left item-dark" ui-sref="app.home">
-                    <i class="icon ion-home"></i> Home
-                </ion-item>
-                <ion-item menu-close class="item-icon-left item-dark" ui-sref="app.bank">
-                    <i class="icon ion-locked"></i> Bank
-                </ion-item>
-                <!-- 
-                <ion-item menu-close class="item-icon-left item-dark" ui-sref="app.test">
-                    <i class="icon ion-ionic"></i> Test
-                </ion-item>
-                -->
-                <ion-item menu-close class="item-icon-left item-dark" ui-sref="app.json">
-                    <i class="icon ion-document-text"></i> JSON
-                </ion-item>
-                <ion-item menu-close class="item-icon-left item-dark" ui-sref="app.help">
-                    <i class="icon ion-help-circled"></i> Help
-                </ion-item>
+                    <ion-item menu-close class="item-icon-left item-dark" ui-sref="app.home">
+                        <i class="icon ion-home"></i> Home
+                    </ion-item>
+                    <ion-item menu-close class="item-icon-left item-dark" ui-sref="app.bank">
+                        <i class="icon ion-locked"></i> Bank
+                    </ion-item>
+                    <ion-item ng-show="display" menu-close class="item-icon-left item-dark" ui-sref="app.test">
+                        <i class="icon ion-ionic"></i> Test
+                    </ion-item>
+                    <ion-item menu-close class="item-icon-left item-dark" ui-sref="app.json">
+                        <i class="icon ion-document-text"></i> JSON
+                    </ion-item>
+                    <ion-item menu-close class="item-icon-left item-dark" ui-sref="app.help">
+                        <i class="icon ion-help-circled"></i> Help
+                    </ion-item>
 
-            </ion-list>
-        </ion-content>
-    </ion-side-menu>
+                </ion-list>
+            </ion-content>
+        </ion-side-menu>
+
+    </div>
 
 </ion-side-menus>

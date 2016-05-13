@@ -1,17 +1,18 @@
+
+app.controller('sidebarCtrl', function ($scope, appConfig) {
+    $scope.display = appConfig.developmentMode;
+});
+
 app.controller('testCtrl', function ($scope, $state, $ionicModal, $ionicPopup, bankService, transactionService, moderator) {
-    
-    // moderator.loadDefault();
-   
+
+    moderator.loadDefault();
 
 });
 
 app.controller('homeCtrl', function ($scope, $state, bankService, moderator) {
 
     moderator.loadDefault();
-
     $scope.banks = bankService.all();
-
-
 
     //Default
     $scope.fd = {
@@ -24,8 +25,6 @@ app.controller('homeCtrl', function ($scope, $state, bankService, moderator) {
         moderator.makeTransaction(fd)
         $scope.fd.the_amount = "";
     }
-
-
 
 });
 
@@ -88,7 +87,6 @@ app.controller('bankCtrl', function ($scope, moderator, $timeout, $ionicActionSh
 
     $scope.hold = function (bankId) {
 
-
         // Show the action sheet
         var hideSheet = $ionicActionSheet.show({
             buttons: [
@@ -125,13 +123,13 @@ app.controller('bankCtrl', function ($scope, moderator, $timeout, $ionicActionSh
 });
 
 app.controller('transactionCtrl', function ($scope, moderator, $timeout, $ionicActionSheet, bankService, transactionService, bankId) {
-    
+
     var theBank = bankService.get(bankId);
-    
+
     $scope.bankTitle = theBank.title;
 
     $scope.bankTransactions = transactionService.getAllTransactionsOfBank(bankId);
-    
+
     $scope.balance = bankService.balance(bankId);
 
     $scope.hold = function (transactionId) {

@@ -40,7 +40,7 @@ app.service("moderator", function (transactionService, bankService, storeService
     }
 
     this.loadDefault = function () {
-        
+
         var banks = bankService.all();
 
         if (banks.length == 0) {
@@ -174,14 +174,14 @@ app.service("transactionService", function (storeService) {
     }
 
     this.setDefault = function () {
+        
         var store_list = [
-            {id: "1", time: "1244323623006", amount: "200", bank_id: "1", type: "debit"},
-            {id: "2", time: "1462865887779", amount: "300", bank_id: "2", type: "credit"},
-            {id: "3", time: "1462867475845", amount: "500", bank_id: "2", type: "debit"},
+            {id: "1", time: "1462865887779", amount: "300", bank_id: "1", type: "credit"},
+            {id: "2", time: "1462867475845", amount: "500", bank_id: "2", type: "debit"},
         ];
-
+        
         storeService.update(this.storeTitle, store_list);
-        storeService.update(this.storeId, 3);
+        storeService.update(this.storeId, store_list.length);
 
     }
 
