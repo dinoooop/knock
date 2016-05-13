@@ -10,16 +10,17 @@ app.config(function ($stateProvider, $urlRouterProvider) {
                 abstract: true,
             })
             
-            .state('app.test', {
-                url: '/test',
-                cache: false,
-                views: {
-                    menuContent: {
-                        templateUrl: 'pages/test.html',
-                        controller: 'testCtrl'
-                    }
-                }
-            })
+//            .state('app.test', {
+//                url: '/test',
+//                cache: false,
+//                views: {
+//                    menuContent: {
+//                        templateUrl: 'pages/test.html',
+//                        controller: 'testCtrl'
+//                    }
+//                }
+//            })
+
             .state('app.home', {
                 url: '/home',
                 cache: false,
@@ -50,23 +51,33 @@ app.config(function ($stateProvider, $urlRouterProvider) {
                     }
                 }
             })
+            .state('app.json', {
+                url: '/json',
+                cache: false,
+                views: {
+                    menuContent: {
+                        templateUrl: 'pages/json.html',
+                        controller: 'jsonCtrl'
+                    }
+                }
+            })
             .state('app.transaction', {
-                url: '/transaction/{bankTitle}',
+                url: '/transaction/{bankId}',
                 views: {
                     menuContent: {
                         templateUrl: 'pages/transaction.html',
                         controller: 'transactionCtrl',
                         resolve: {
-                            bankTitle: function ($stateParams) {
-                                return $stateParams.bankTitle;
+                            bankId: function ($stateParams) {
+                                return $stateParams.bankId;
                             }
                         }
                     }
                 }
             });
 
-    //$urlRouterProvider.otherwise('/app/home');
-    $urlRouterProvider.otherwise('/app/test');
+    $urlRouterProvider.otherwise('/app/home');
+    //$urlRouterProvider.otherwise('/app/test');
 
 });
 

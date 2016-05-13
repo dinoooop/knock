@@ -1,10 +1,8 @@
 app.controller('testCtrl', function ($scope, $state, $ionicModal, $ionicPopup, bankService, transactionService, moderator) {
-
-    if (1) {
-        bankService.setDefault();
-        transactionService.setDefault();
-    }
+    
+    // moderator.loadDefault();
    
+
 });
 
 app.controller('homeCtrl', function ($scope, $state, bankService, moderator) {
@@ -13,16 +11,21 @@ app.controller('homeCtrl', function ($scope, $state, bankService, moderator) {
 
     $scope.banks = bankService.all();
 
+
+
     //Default
     $scope.fd = {
-        the_bank: moderator.setLastBank(),
+        the_bank_id: moderator.getLastBank(),
         the_type: "debit",
     };
 
     $scope.makeTransaction = function (fd) {
+
         moderator.makeTransaction(fd)
         $scope.fd.the_amount = "";
     }
+
+
 
 });
 
@@ -45,6 +48,13 @@ app.controller('bankCtrl', function ($scope, moderator, $timeout, $ionicActionSh
         $scope.modelCB.hide();
     }
 
+    $scope.createBank = function (fd) {
+        var data = {amount: fd.the_amount, title: fd.the_title};
+        bankService.add(data);
+        $scope.banks = bankService.all();
+        $scope.modelCB.hide();
+    }
+
     // Model - Edit Bank
     $ionicModal.fromTemplateUrl('templates/model-edit-bank.html', function (modal) {
         $scope.modelEB = modal;
@@ -53,10 +63,13 @@ app.controller('bankCtrl', function ($scope, moderator, $timeout, $ionicActionSh
     });
 
     $scope.showmodelEB = function (bankId) {
+
+        var data = bankService.get(bankId);
+
         $scope.fd = {
-            bankId: bankId,
-            the_title: $scope.banks[bankId].title,
-            the_amount: $scope.banks[bankId].amount,
+            the_id: data.id,
+            the_title: data.title,
+            the_amount: data.amount,
         }
         $scope.modelEB.show();
     }
@@ -65,22 +78,11 @@ app.controller('bankCtrl', function ($scope, moderator, $timeout, $ionicActionSh
         $scope.modelEB.hide();
     }
 
-    $scope.createBank = function (fd) {
-
-        var data = {amount: fd.the_amount, title: fd.the_title};
-        bankService.add(data);
-        $scope.banks = bankService.all();
-
-        $scope.modelCB.hide();
-    }
-
     $scope.updateBank = function (fd) {
 
         $scope.fd = {};
-        var data = {amount: fd.the_amount, title: fd.the_title};
-        bankService.update(fd.bankId, data);
+        moderator.updateBank(fd);
         $scope.banks = bankService.all();
-
         $scope.modelEB.hide();
     }
 
@@ -122,13 +124,15 @@ app.controller('bankCtrl', function ($scope, moderator, $timeout, $ionicActionSh
 
 });
 
-app.controller('transactionCtrl', function ($scope, moderator, $timeout, $ionicActionSheet, bankService, transactionService, bankTitle) {
+app.controller('transactionCtrl', function ($scope, moderator, $timeout, $ionicActionSheet, bankService, transactionService, bankId) {
+    
+    var theBank = bankService.get(bankId);
+    
+    $scope.bankTitle = theBank.title;
 
-    $scope.bankTitle = bankTitle;
-
-    $scope.allTransactions = transactionService.all();
-    $scope.bankTransactions = $scope.allTransactions.getObjs('bank', bankTitle);
-    $scope.balance = bankService.balance(bankTitle);
+    $scope.bankTransactions = transactionService.getAllTransactionsOfBank(bankId);
+    
+    $scope.balance = bankService.balance(bankId);
 
     $scope.hold = function (transactionId) {
 
@@ -155,9 +159,8 @@ app.controller('transactionCtrl', function ($scope, moderator, $timeout, $ionicA
                 moderator.deleteTheTransaction(transactionId)
 
                 //reset values
-                $scope.allTransactions = transactionService.all();
-                $scope.bankTransactions = $scope.allTransactions.getObjs('bank', bankTitle);
-                $scope.balance = bankService.balance(bankTitle);
+                $scope.bankTransactions = transactionService.getAllTransactionsOfBank(bankId);
+                $scope.balance = bankService.balance(bankId);
 
                 return true;
             }
@@ -169,4 +172,9 @@ app.controller('transactionCtrl', function ($scope, moderator, $timeout, $ionicA
         }, 3000);
 
     };
+});
+
+app.controller('jsonCtrl', function ($scope, bankService, transactionService) {
+    $scope.banks = bankService.all();
+    $scope.transactions = transactionService.all();
 });

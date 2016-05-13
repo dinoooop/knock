@@ -7,7 +7,7 @@
     <ion-content>
         
         <ion-list>
-                <ion-item ng-repeat="bank in banks" on-hold="hold($index)" ui-sref="app.transaction({bankTitle: bank.title})">
+                <ion-item ng-repeat="bank in banks" on-hold="hold(bank.id)" ui-sref="app.transaction({bankId: bank.id})">
                     {{bank.title}} ({{bank.amount}})
                 </ion-item>
             </ion-list>

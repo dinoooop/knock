@@ -36,3 +36,9 @@
 .amount input {
     text-align: center;
 }
+
+.debit {
+    background-color:#e8e8e8;
+    border-bottom: 2px solid #FFF;
+    
+}

@@ -4,7 +4,7 @@
         
         <ul class="list">
             <li class="item">Balance: {{balance}}</li>
-            <li class="item" ng-repeat="transaction in bankTransactions | orderBy:'-time' " on-hold="hold(transaction.id)">
+            <li class="item {{transaction.type}}" ng-repeat="transaction in bankTransactions | orderBy:'-id' " on-hold="hold(transaction.id)">
                 <h2>{{transaction.amount}}</h2>
                 <p>{{ transaction.time |date:'dd/MM/yyyy @ h:mma' }} - {{transaction.type | capitalize}}</p>
             </li>

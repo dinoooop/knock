@@ -1,5 +1,6 @@
 app.directive("knRadio", function ($ionicModal) {
 
+
     return {
         /* Only use as <kn-radio> tag */
         restrict: 'E',
@@ -7,7 +8,7 @@ app.directive("knRadio", function ($ionicModal) {
         scope: {
             items: '=',
             heading: '@',
-            lock: '='
+            key: '='
         },
         link: function (scope, element, attrs) {
 
@@ -17,15 +18,28 @@ app.directive("knRadio", function ($ionicModal) {
                 scope.modal = modal;
             });
 
+
+
             scope.showItems = function () {
                 scope.modal.show();
             }
 
             /* Hide list */
             scope.hideItems = function (checked) {
-                scope.lock = checked;
+
+                if (typeof checked != "undefined") {
+                    scope.key = checked;
+                    scope.value = scope.getValue(scope.key);
+                }
+                
                 scope.modal.hide();
+
             }
+            scope.getValue = function (id) {
+                var data = scope.items.getObj('id', id);
+                return data.data.title;
+            }
+            scope.value = scope.getValue(scope.key);
         }
 
     };

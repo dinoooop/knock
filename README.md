@@ -34,7 +34,7 @@ Set last chosen bank by default
 Delete transaction
 
 ##Now
-
+Edit bank title
 
 ## Next
 Set message for add transaction
