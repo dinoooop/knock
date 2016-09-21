@@ -2,7 +2,7 @@
 var app = angular.module('knock', ['ionic']);
 
 app.constant('appConfig', {
-    developmentMode: true,
+    developmentMode: false,
 });
 
 app.config(function (appConfig, $stateProvider, $urlRouterProvider) {
